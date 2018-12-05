@@ -1,0 +1,43 @@
+2018-12-03T02:31:37+00:00 NOTICE sync.started :: Starting Sync :: Mon, Dec 3, 2018 2:31 AM
+2018-12-03T02:31:47+00:00 NOTICE product_sync.success :: addStoreProduct :: #599
+2018-12-03T02:31:50+00:00 NOTICE product_sync.success :: addStoreProduct :: #1058
+2018-12-03T02:31:53+00:00 NOTICE product_sync.success :: addStoreProduct :: #1063
+2018-12-03T02:31:55+00:00 NOTICE product_sync.success :: addStoreProduct :: #1069
+2018-12-03T02:31:57+00:00 NOTICE product_sync.success :: addStoreProduct :: #1070
+2018-12-03T02:31:59+00:00 NOTICE product_sync.success :: addStoreProduct :: #1073
+2018-12-03T02:32:01+00:00 NOTICE product_sync.success :: addStoreProduct :: #1074
+2018-12-03T02:32:03+00:00 NOTICE product_sync.success :: addStoreProduct :: #1075
+2018-12-03T02:32:04+00:00 NOTICE product_sync.success :: addStoreProduct :: #1079
+2018-12-03T02:32:06+00:00 NOTICE product_sync.success :: addStoreProduct :: #1125
+2018-12-03T02:32:10+00:00 NOTICE product_sync.success :: addStoreProduct :: #1127
+2018-12-03T02:32:12+00:00 NOTICE product_sync.success :: addStoreProduct :: #1129
+2018-12-03T02:32:14+00:00 NOTICE product_sync.success :: addStoreProduct :: #1131
+2018-12-03T02:32:17+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2018-12-03T02:32:25+00:00 ERROR order_submit.error :: addStoreOrder :: 414 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:27+00:00 ERROR order_submit.error :: addStoreOrder :: 882 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:29+00:00 ERROR order_submit.error :: addStoreOrder :: 955 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:34+00:00 ERROR order_submit.error :: addStoreOrder :: 983 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:43+00:00 ERROR order_submit.error :: addStoreOrder :: 985 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:45+00:00 ERROR order_submit.error :: addStoreOrder :: 986 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:47+00:00 ERROR order_submit.error :: addStoreOrder :: 988 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:49+00:00 ERROR order_submit.error :: addStoreOrder :: 989 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:32:56+00:00 ERROR order_submit.error :: addStoreOrder :: 991 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:00+00:00 ERROR order_submit.error :: addStoreOrder :: 993 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:02+00:00 ERROR order_submit.error :: addStoreOrder :: 994 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:04+00:00 ERROR order_submit.error :: addStoreOrder :: 995 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:13+00:00 ERROR order_submit.error :: addStoreOrder :: 996 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:17+00:00 ERROR order_submit.error :: addStoreOrder :: 998 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:22+00:00 ERROR order_submit.error :: addStoreOrder :: 999 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:30+00:00 ERROR order_submit.error :: addStoreOrder :: 1000 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:44+00:00 ERROR order_submit.error :: addStoreOrder :: 1002 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:47+00:00 ERROR order_submit.error :: addStoreOrder :: 1003 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:51+00:00 ERROR order_submit.error :: addStoreOrder :: 1007 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:33:54+00:00 ERROR order_submit.error :: addStoreOrder :: 1008 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:11+00:00 ERROR order_submit.error :: addStoreOrder :: 1011 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:13+00:00 ERROR order_submit.error :: addStoreOrder :: 1012 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:16+00:00 ERROR order_submit.error :: addStoreOrder :: 1013 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:18+00:00 ERROR order_submit.error :: addStoreOrder :: 1038 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:23+00:00 ERROR order_submit.error :: addStoreOrder :: 1089 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:25+00:00 ERROR order_submit.error :: addStoreOrder :: 1091 :: <p>: Required fields were not provided: lines</p> on 1493 in D:\program\xampp\htdocs\salon\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-03T02:34:32+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2018-12-03T02:34:32+00:00 NOTICE sync.completed :: Finished Sync :: Mon, Dec 3, 2018 2:34 AM

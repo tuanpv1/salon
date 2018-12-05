@@ -1,0 +1,11 @@
+2018-11-30T07:43:34+00:00 CRITICAL Uncaught Error: Call to a member function is_featured() on null in D:\program\xampp\htdocs\salon\wp-content\themes\outstock\woocommerce\content-product-archive.php:23
+Stack trace:
+#0 D:\program\xampp\htdocs\salon\wp-includes\template.php(690): require()
+#1 D:\program\xampp\htdocs\salon\wp-content\plugins\woocommerce\includes\wc-core-functions.php(178): load_template('D:\\program\\xamp...', false)
+#2 D:\program\xampp\htdocs\salon\wp-content\themes\outstock\woocommerce\archive-product.php(131): wc_get_template_part('content', 'product-archive')
+#3 D:\program\xampp\htdocs\salon\wp-includes\template-loader.php(74): include('D:\\program\\xamp...')
+#4 D:\program\xampp\htdocs\salon\wp-blog-header.php(19): require_once('D:\\program\\xamp...')
+#5 D:\program\xampp\htdocs\salon\index.php(17): require('D:\\program\\xamp...')
+#6 {main}
+  thrown in D:\program\xampp\htdocs\salon\wp-content\themes\outstock\woocommerce\content-product-archive.php on line 23
+
